@@ -194,16 +194,9 @@ The application displays a student registration screen where student details can
 
 ![StudentListActivity Code](Screenshots/04_StudentListActivity_Code.png)
 
-## 14. Student Details
 
-**Name:** Md Atiullah Ansari  
-**USN:** 25MCAR0108
 
-## 15. Result
+##. Result
 
 The Student List Android application was successfully developed and tested. Student details can be registered and displayed using ListView and ImageView.
 
-## 16. GitHub Repository
-
-**StudentListApp:**  
-https://github.com/Atiullah18/StudentListApp
